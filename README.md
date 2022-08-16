@@ -9,7 +9,8 @@
 bibliotecas utilizadas: SKlearn, logging
 
 * SKlearn:biblioteca [Sklearn](https://scikit-learn.org/stable/) para criar Machine Learn.
-* logging:biblioteca [logging](https://docs.python.org/3/library/logging.html) para fazer as fichas do paciêntes. 
+* logging:biblioteca [logging](https://docs.python.org/3/library/logging.html) para fazer as fichas do paciêntes:
+<img src="/ficha.jpg">
 
 # Objetivos:
 
